@@ -13,7 +13,7 @@ A abordagem adotada envolve o uso do método `predict` para classificar empresas
 Após análise, o modelo XGBoost destacou-se como o mais adequado para o projeto, oferecendo resultados precisos na previsão de inadimplência. Dessa forma, recomenda-se sua implementação para identificar potenciais inadimplentes entre novos dados de consumidores, possibilitando a tomada de medidas proativas para minimizar perdas.
 
 ## Produto Final do Projeto
-O resultado do projeto é apresentado em um [Notebook Python](link_para_o_notebook), contendo o código, análises exploratórias, treinamento do modelo e avaliação de desempenho.
+O resultado do projeto é apresentado em um [Notebook Python](https://github.com/oemeferreira/previsao-inadimplencia/blob/main/Projeto.ipynb), contendo o código, análises exploratórias, treinamento do modelo e avaliação de desempenho.
 
 ## Conclusão
 Ao enfrentar o desafio de identificar o risco de crédito, este projeto desenvolveu um modelo de machine learning robusto. A implementação prática desse modelo permite à instituição cedente do crédito tomar decisões informadas, personalizando sua abordagem com base na probabilidade de inadimplência, proporcionando uma gestão mais eficiente e eficaz.
