@@ -18,7 +18,3 @@ O resultado do projeto é apresentado em um [Notebook Python](https://github.com
 ## Conclusão
 Ao enfrentar o desafio de identificar o risco de crédito, este projeto desenvolveu um modelo de machine learning robusto. A implementação prática desse modelo permite à instituição cedente do crédito tomar decisões informadas, personalizando sua abordagem com base na probabilidade de inadimplência, proporcionando uma gestão mais eficiente e eficaz.
 
----
-
-**Observação:** Lembre-se de substituir `link_para_o_notebook` pelo link real do seu Notebook Python no GitHub. Além disso, adapte o texto conforme necessário para refletir com precisão os detalhes específicos do seu projeto.
-
